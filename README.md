@@ -1,4 +1,4 @@
-# 📈 Optimal Portfolio Construction & Risk-Return Analysis
+# Optimal Portfolio Construction & Risk-Return Analysis
 
 A group project analysing 20 years of monthly data (2004 to 2024) for Exxon Mobil, Johnson & Johnson and AMD against a market index, and building the optimal risky portfolio from first principles.
 
@@ -11,7 +11,7 @@ A group project analysing 20 years of monthly data (2004 to 2024) for Exxon Mobi
 - Allowing short selling and leverage changed nothing: the tangency portfolio was already long-only
 - AMD: highest return (448.55% holding period return) and highest risk (16.90% monthly volatility)
 
-📄 **Full analysis, figures and results:** [Optimal_Portfolio_Report.pdf](Optimal_Portfolio_Report.pdf)
+**Full analysis, figures and results:** [Optimal_Portfolio_Report.pdf](Optimal_Portfolio_Report.pdf)
 
 ## Why this project
 
@@ -31,6 +31,6 @@ We computed arithmetic and geometric returns, volatilities and Sharpe ratios for
 
 These are the same techniques used daily in portfolio analytics, investment risk and multi-asset teams, applied to real market data rather than a textbook example.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Completed as a group project (Team Alpha) for an Investments module at Nanyang Technological University. All members contributed to the analysis and report; full references are in the [report bibliography](Optimal_Portfolio_Report.pdf).
